@@ -41,33 +41,33 @@ Fiecare task este stocat sub forma:
 
 Funcționalități principale:
 
-### 1️⃣ Adăugare task
+### Adăugare task
 
 Introducere de la tastatură în format: exemplu la ora 15:00
 
-### 2️⃣ Afișare taskuri
+### Afișare taskuri
 
 Afișează lista completă și timpul rămas până la termen.
 
-### 3️⃣ Calcul timp rămas
+### Calcul timp rămas
 
 Se calculează diferența dintre ora curentă și ora taskului.
 
-### 4️⃣ Editare task
+### Editare task
 
 Permite modificarea numelui și orei unui task existent.
 
-### 5️⃣ Ștergere task
+### Ștergere task
 
 Elimină un task din listă.
 
-### 6️⃣ Completare task
+### Completare task
 
 Marchează taskul ca finalizat și îl elimină din listă.
 
 ------------------------------------------------------------------------
 
-## ▶️ Rulare program
+## Rulare program
 
 1.  Asigură-te că ai instalat Python 3.
 
